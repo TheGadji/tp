@@ -1,0 +1,15 @@
+C:\Users\NPC\source\repos\ThredPool\ThredPool\bin\Debug\net6.0\ThredPool.exe
+C:\Users\NPC\source\repos\ThredPool\ThredPool\bin\Debug\net6.0\ThredPool.deps.json
+C:\Users\NPC\source\repos\ThredPool\ThredPool\bin\Debug\net6.0\ThredPool.runtimeconfig.json
+C:\Users\NPC\source\repos\ThredPool\ThredPool\bin\Debug\net6.0\ThredPool.dll
+C:\Users\NPC\source\repos\ThredPool\ThredPool\bin\Debug\net6.0\ThredPool.pdb
+C:\Users\NPC\source\repos\ThredPool\ThredPool\obj\Debug\net6.0\ThredPool.csproj.AssemblyReference.cache
+C:\Users\NPC\source\repos\ThredPool\ThredPool\obj\Debug\net6.0\ThredPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NPC\source\repos\ThredPool\ThredPool\obj\Debug\net6.0\ThredPool.AssemblyInfoInputs.cache
+C:\Users\NPC\source\repos\ThredPool\ThredPool\obj\Debug\net6.0\ThredPool.AssemblyInfo.cs
+C:\Users\NPC\source\repos\ThredPool\ThredPool\obj\Debug\net6.0\ThredPool.csproj.CoreCompileInputs.cache
+C:\Users\NPC\source\repos\ThredPool\ThredPool\obj\Debug\net6.0\ThredPool.dll
+C:\Users\NPC\source\repos\ThredPool\ThredPool\obj\Debug\net6.0\refint\ThredPool.dll
+C:\Users\NPC\source\repos\ThredPool\ThredPool\obj\Debug\net6.0\ThredPool.pdb
+C:\Users\NPC\source\repos\ThredPool\ThredPool\obj\Debug\net6.0\ThredPool.genruntimeconfig.cache
+C:\Users\NPC\source\repos\ThredPool\ThredPool\obj\Debug\net6.0\ref\ThredPool.dll
