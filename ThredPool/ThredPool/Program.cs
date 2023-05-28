@@ -17,7 +17,7 @@ namespace ThredPool
                 tasks[i] = pool.AddTask(ReturnF);
             }
 
-            Console.WriteLine("First (x{0}):", taskCount);
+            Console.WriteLine("First ({0})", taskCount);
             foreach (var task in tasks)
             {
                 Console.WriteLine(task.Result);
@@ -29,7 +29,7 @@ namespace ThredPool
                 nestedTasks[i] = tasks[i].ContinueWith(ReturnS);
             }
 
-            Console.WriteLine("Second (x{0}):", taskCount);
+            Console.WriteLine("Second ({0})", taskCount);
             foreach (var task in nestedTasks)
             {
                 Console.WriteLine(task.Result);
